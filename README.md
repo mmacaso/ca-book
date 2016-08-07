@@ -5,4 +5,4 @@ CA,
 TB
 #name
 sample-book
-@dynamic
+// @exercise --type php --proof filename.php
