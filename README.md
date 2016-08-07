@@ -5,4 +5,9 @@ CA,
 TB
 #name
 sample-book
-// @exercise --type php --proof filename.php
+<div class="exercise highlight highlight-text-html-php" data-proof="filename.php" data-type="php">
+function someFunction()
+{
+  $count = 1;
+}
+</div>
