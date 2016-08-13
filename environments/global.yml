@@ -1,0 +1,10 @@
+prove:
+    default:
+        entrypoint:
+            - /home/cadev/.composer/vendor/bin/phpunit
+            - --verbose
+            - --tap
+evaluate:
+    default:
+        entrypoint:
+            - php

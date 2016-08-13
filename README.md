@@ -1,7 +1,1 @@
-#title
-Coding Avenue Sample Book
-#author
-CA,
-TB
-#name
-sample-book
+# CA School Training - PHP 1
