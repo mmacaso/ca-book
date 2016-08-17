@@ -60,6 +60,8 @@ To complete the following assignments, complete the PHP Tutorial section here: h
 Provide code examples for the following:
 
 ```php
+@exercise
+@proof proof_1.php
 // Create a function with one parameter that returns a value.
 
 use some\class;
