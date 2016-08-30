@@ -57,22 +57,84 @@ To complete the following assignments, complete the PHP Tutorial section here: h
 
 ## Exercises
 
-Provide code examples for the following:
-
-```php
-@exercise
-@proof proof_1.php
-// Create a function with one parameter that returns a value.
-
-use some\class;
-```
-
-```php
-// Create a function with one parameter that returns a value.
-```
-
-```php
-// Increment variable $count by 1
-
-$count = 0;
-```
+### Provide code examples for the following:
+ 
+1. Create a function with one parameters that return's value
+  
+  ```php
+  // @exercise Simple Function
+  // @proof simple-function.php
+  ```
+  
+2. Use the assignment operator
+  
+  ```php
+  // @exercise Assignment Operator
+  ```
+  
+3. What operators are used for concatenation?
+ 
+  ```php
+  // @exercise Concatenation
+  ```
+  
+4. Provide an example of string manipulation
+   
+  ```php
+  // @exercise String Manipulation
+  ```
+  
+5. What is the difference between single and double quotes?
+  
+ ```php
+  // @exercise Single and Double Quotes
+  ```
+  
+6. What is an array? Provide an example
+ 
+ ```php
+  // @exercise Array
+  ```
+  
+7. Provide an example of a “for” loop that uses a counter
+  
+  ```php
+  // @exercise For Loop
+  ```
+  
+8. How do you iterate over the keys and values in an associative array?
+ 
+  ```php
+  // @exercise Associative Array
+  ```
+  
+9. What is var_dump() used for?
+  
+  ```php
+  // @exercise Using var_dump
+  ```
+  
+10. Demonstrate an if-elseif-else statement
+  
+  ```php
+  // @exercise If Else Statement
+  ```
+  
+11. Increment variable $count by 1
+  
+  ```php
+  // @exercise Increment
+  // @proof increment.php
+  
+  $count = 0;
+  ```
+  
+12. Decrement variable $count by 1
+  
+  ```php
+  // @exercise Decrement
+  // @proof decrement.php
+  
+  $count = 10;
+  ```
+  
